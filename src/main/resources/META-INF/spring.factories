@@ -1,0 +1,2 @@
+# Spring Boot自动配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=
