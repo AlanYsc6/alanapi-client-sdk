@@ -80,5 +80,5 @@ String r3 = client.getUsernameByPost(new User("alan"));              // POST JSO
 
 ## 相关项目
 
-- [alanapi-interface](../alanapi-interface)：接口服务（验签、计数、日志）
-- [alanapi-backend](../alanapi-backend)：平台主后端（密钥管理、次数分配）
+- [alanapi-interface](https://github.com/AlanYsc6/alanapi-interface)：接口服务（验签、计数、日志）
+- [alanapi-backend](https://github.com/AlanYsc6/alanapi-backend)：平台主后端（密钥管理、次数分配）
